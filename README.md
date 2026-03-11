@@ -24,4 +24,4 @@ My goal is to become a professional Data Analyst and build strong data-driven so
 
 ## Contact
 
-LinkedIn: (Add your LinkedIn link)
+LinkedIn: (https://www.linkedin.com/in/c-siva-5641b2359/)
