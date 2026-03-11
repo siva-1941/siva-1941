@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Siva 👋
 
-<!--
-**siva-1941/siva-1941** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Final Year Student
+📊 Aspiring Data Analyst
+📍 India
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Power BI
+* Excel
+* SQL
+* Python (Basics)
+* Data Visualization
+
+## Projects
+
+🔹 Sales Performance Analysis Dashboard
+🔹 Customer Analysis
+🔹 Financial Data Analysis
+
+## Goals
+
+My goal is to become a professional Data Analyst and build strong data-driven solutions.
+
+## Contact
+
+LinkedIn: (Add your LinkedIn link)
