@@ -16,7 +16,6 @@
 
 🔹 Sales Performance Analysis Dashboard
 🔹 Customer Analysis
-🔹 Financial Data Analysis
 
 ## Goals
 
